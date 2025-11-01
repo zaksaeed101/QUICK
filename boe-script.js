@@ -1409,13 +1409,29 @@ const boeData = {
     amount: "4,005.39 GHS",
     pdfDate: "24/10/2025 16:38:50",
   },
-  41025688178: {
-    billNo: "AFO1-G-41025688178-01",
-    boe: "41025688178",
-    tin: "U2510240227",
-    payerName: "NAA AMORLEY",
-    amount: "4,291.84 GHS",
-    pdfDate: "24/10/2025 17:01:49",
+  41025705148: {
+    billNo: "AFO1-G-41025705148-01",
+    boe: "41025705148",
+    tin: "U2510310273",
+    payerName: "EMELIA AMANKWAH",
+    amount: "4,998.67 GHS",
+    pdfDate: "31/10/2025 17:38:50",
+  },
+  41025705103: {
+    billNo: "AFO1-G-41025705103-01",
+    boe: "41025705103",
+    tin: "U2510310261",
+    payerName: "EMELIA AMANKWAH",
+    amount: "5,102.56 GHS",
+    pdfDate: "31/10/2025 17:21:58",
+  },
+  41025705167: {
+    billNo: "AFO1-G-41025705167-01",
+    boe: "41025705167",
+    tin: "U2510310289",
+    payerName: "EMELIA AMANKWAH",
+    amount: "5,091.12 GHS",
+    pdfDate: "31/10/2025 18:01:10",
   },
 };
 
