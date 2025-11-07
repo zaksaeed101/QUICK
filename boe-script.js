@@ -1433,6 +1433,30 @@ const boeData = {
     amount: "5,091.12 GHS",
     pdfDate: "31/10/2025 18:01:10",
   },
+  41125725259: {
+    billNo: "AFO1-G-41125725259-01",
+    boe: "41125725259",
+    tin: "U2511070267",
+    payerName: "EMELIA AMANKWAH",
+    amount: "4,998.67 GHS",
+    pdfDate: "07/11/2025 17:38:50",
+  },
+  41125725231: {
+    billNo: "AFO1-G-41125725231-01",
+    boe: "41125725231",
+    tin: "U2511070248",
+    payerName: "EMELIA AMANKWAH",
+    amount: "5,102.56 GHS",
+    pdfDate: "07/11/2025 17:21:58",
+  },
+  41125725286: {
+    billNo: "AFO1-G-41125725286-01",
+    boe: "41125725286",
+    tin: "U2511070291",
+    payerName: "EMELIA AMANKWAH",
+    amount: "5,091.12 GHS",
+    pdfDate: "07/11/2025 18:01:10",
+  },
 };
 
 // Function to get query parameter from URL
