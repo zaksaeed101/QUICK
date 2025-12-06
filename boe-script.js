@@ -1481,6 +1481,46 @@ const boeData = {
     amount: "4,998.67 GHS",
     pdfDate: "14/11/2025 17:38:52",
   },
+  41225805048: {
+    billNo: "AFO1-G-41225805048-01",
+    boe: "41225805048",
+    tin: "U2512060274",
+    payerName: "EMELIA AMANKWAH",
+    amount: "6,383.67 GHS",
+    pdfDate: "06/12/2025 17:38:10",
+  },
+  41225805072: {
+    billNo: "AFO1-G-41225805072-01",
+    boe: "41225805072",
+    tin: "U2512060285",
+    payerName: "ABA MENSAH",
+    amount: "6,880.56 GHS",
+    pdfDate: "06/12/2025 17:51:09",
+  },
+  41225805013: {
+    billNo: "AFO1-G-41225805013-01",
+    boe: "41225805013",
+    tin: "U251206061",
+    payerName: "NAA AMORLEY",
+    amount: "6,389.89 GHS",
+    pdfDate: "06/12/2025 16:01:46",
+  },
+  41225805171: {
+    billNo: "AFO1-G-41225805171-01",
+    boe: "41225805171",
+    tin: "U2512060312",
+    payerName: "ROSELYN AMPOSAH",
+    amount: "6,383.67 GHS",
+    pdfDate: "06/12/2025 18:19:33",
+  },
+  41225805146: {
+    billNo: "AFO1-G-41225805146-01",
+    boe: "41225805146",
+    tin: "U2512060301",
+    payerName: "FELICIA KONADU",
+    amount: "6,383.67 GHS",
+    pdfDate: "06/12/2025 18:14:16",
+  },
 };
 
 // Function to get query parameter from URL
