@@ -1467,6 +1467,60 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
+  41225842171: {
+    boe_no: "41225842171",
+    status: "Assessed",
+    pdf_date: "19/12/2025 14:19:09",
+    amount: "4,007.79 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41225842305: {
+    boe_no: "41225842305",
+    status: "Assessed",
+    pdf_date: "19/12/2025 15:23:59",
+    amount: "3,012.40 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41225842368: {
+    boe_no: "41225842368",
+    status: "Assessed",
+    pdf_date: "19/12/2025 17:51:09",
+    amount: "6,880.56 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41225842291: {
+    boe_no: "41225842291",
+    status: "Assessed",
+    pdf_date: "19/12/2025 17:38:10",
+    amount: "6,383.67 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41225842347: {
+    boe_no: "41225842347",
+    status: "Assessed",
+    pdf_date: "19/12/2025 16:01:46",
+    amount: "6,389.89 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+ 41225842429: {
+    boe_no: "41225842429",
+    status: "Assessed",
+    pdf_date: "19/12/2025 18:14:16",
+    amount: "6,383.89 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
 };
 
 // Step 2: Get Query Param
