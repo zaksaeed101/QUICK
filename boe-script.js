@@ -1565,7 +1565,7 @@ const boeData = {
     billNo: "AFO1-G-41225842429-01",
     boe: "41225842429",
     tin: "U2512090310",
-    payerName: "FELICIA KONEDU",
+    payerName: "FELICIA KONADU",
     amount: "6,383.89 GHS",
     pdfDate: "19/12/2025 18:14:16",
   },
