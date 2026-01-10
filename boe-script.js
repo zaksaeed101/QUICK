@@ -1729,13 +1729,13 @@ const boeData = {
     amount: "10,030.78 GHS",
     pdfDate: "09/01/2026 19:52:04",
   },
-  40126019455: {
-    billNo: "AFO1-G-40126019455-01",
-    boe: "40126019455",
-    tin: "U2601090298",
-    payerName: "AKWESI YEAH",
-    amount: "10,030.78 GHS",
-    pdfDate: "09/01/2026 19:30:52",
+  40126020984: {
+    billNo: "AFO1-G-40126020984-01",
+    boe: "40126020984",
+    tin: "U2601100267",
+    payerName: "YAA ASANTEWAA",
+    amount: "3,025.43 GHS",
+    pdfDate: "10/01/2026 14:59:04",
   },
 };
 
