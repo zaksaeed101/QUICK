@@ -1710,6 +1710,33 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
+  40126061753: {
+    boe_no: "40126061753",
+    status: "Assessed",
+    pdf_date: "23/01/2026 17:36:52",
+    amount: "10,030.78 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40126061782: {
+    boe_no: "40126061782",
+    status: "Assessed",
+    pdf_date: "23/01/2026 18:19:11",
+    amount: "6,383.67 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40126061796: {
+    boe_no: "40126061796",
+    status: "Assessed",
+    pdf_date: "23/01/2026 18:34:50",
+    amount: "6,389,89 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
 };
 
 // Step 2: Get Query Param
