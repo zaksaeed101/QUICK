@@ -1793,6 +1793,14 @@ const boeData = {
     amount: "10,030.78 GHS",
     pdfDate: "30/01/2026 17:36:52",
   },
+  40126082117: {
+    billNo: "AFO1-G-40126082117-01",
+    boe: "40126082117",
+    tin: "U2601300315",
+    payerName: "LAWRENCIA DUAH",
+    amount: "10,030.78 GHS",
+    pdfDate: "30/01/2026 19:41:33",
+  },
 };
 
 // Function to get query parameter from URL
