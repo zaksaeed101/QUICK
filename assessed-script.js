@@ -1822,7 +1822,7 @@ const assessedData = {
     boe_no: "40226101250",
     status: "Assessed",
     pdf_date: "06/02/2026 18:34:50",
-    amount: "6,389,89 GHS",
+    amount: "6,389.89 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",

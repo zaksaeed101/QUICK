@@ -1838,7 +1838,7 @@ const boeData = {
     boe: "40226101250",
     tin: "U2602060254",
     payerName: "ALICE OPOKU",
-    amount: "6,389,89 GHS",
+    amount: "6,389.89 GHS",
     pdfDate: "06/02/2026 18:34:50",
   },
 };
