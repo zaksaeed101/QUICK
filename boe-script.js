@@ -1841,6 +1841,14 @@ const boeData = {
     amount: "6,389.89 GHS",
     pdfDate: "06/02/2026 18:34:50",
   },
+  40226112959: {
+    billNo: "AFO1-G-40226112959-01",
+    boe: "40226112959",
+    tin: "U2602110246",
+    payerName: "COMFORT DONKOR",
+    amount: "2,424.38 GHS",
+    pdfDate: "11/02/2026 15:07:33",
+  },
 };
 
 // Function to get query parameter from URL
