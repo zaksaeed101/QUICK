@@ -1881,6 +1881,14 @@ const boeData = {
     amount: "6,376.04 GHS",
     pdfDate: "13/02/2026 18:17:50",
   },
+  40226120338: {
+    billNo: "AFO1-G-40226120338-01",
+    boe: "40226120338",
+    tin: "U2602130204",
+    payerName: "JAMES OSEI",
+    amount: "3,321.56 GHS",
+    pdfDate: "13/02/2026 19:22:30",
+  },
 };
 
 // Function to get query parameter from URL
@@ -1914,4 +1922,3 @@ function loadBOEData() {
 
 // Run function on page load
 window.onload = loadBOEData;
-
