@@ -1937,6 +1937,14 @@ const boeData = {
     amount: "10,016.24 GHS",
     pdfDate: "20/02/2026 17:21:37",
   },
+  40226141386: {
+    billNo: "AFO1-G-40226141386-01",
+    boe: "40226141386",
+    tin: "U2602210237",
+    payerName: "KWABENA OFORI",
+    amount: "3,276.66 GHS",
+    pdfDate: "21/02/2026 14:59:37",
+  },
 };
 
 // Function to get query parameter from URL
