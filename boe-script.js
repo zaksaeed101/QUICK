@@ -1969,6 +1969,14 @@ const boeData = {
     amount: "2,489.34 GHS",
     pdfDate: "07/03/2026 14:16:47",
   },
+  40326192956: {
+    billNo: "AFO1-G-40326192956-01",
+    boe: "40326192956",
+    tin: "U2603120241",
+    payerName: "ADU MENSAH",
+    amount: "2,489.34 GHS",
+    pdfDate: "12/03/2026 14:16:47",
+  },
 };
 
 // Function to get query parameter from URL
