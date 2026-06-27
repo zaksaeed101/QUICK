@@ -2682,6 +2682,69 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
+  40626484179: {
+    boe_no: "40626484179",
+    status: "Assessed",
+    pdf_date: "26/06/2026 16:47:56",
+    amount: "11,508.56 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626484236: {
+    boe_no: "40626484236",
+    status: "Assessed",
+    pdf_date: "26/06/2026 17:55:09",
+    amount: "6,729.39 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626484202: {
+    boe_no: "40626484202",
+    status: "Assessed",
+    pdf_date: "26/06/2026 15:01:39",
+    amount: "11,346.73 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626485234: {
+    boe_no: "40626485234",
+    status: "Assessed",
+    pdf_date: "26/06/2026 21:31:19",
+    amount: "6,993.84 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626484281: {
+    boe_no: "40626484281",
+    status: "Assessed",
+    pdf_date: "26/06/2026 19:26:47",
+    amount: "6,627.21 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626485217: {
+    boe_no: "40626485217",
+    status: "Assessed",
+    pdf_date: "26/06/2026 21:18:56",
+    amount: "11,671.04 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40626485913: {
+    boe_no: " 40626485913",
+    status: "Assessed",
+    pdf_date: "27/06/2026 15:58:26",
+    amount: "4,083.76 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
 };
 
 // Step 2: Get Query Param
