@@ -2737,10 +2737,19 @@ const assessedData = {
     tracking: "Declaration Tracking",
   },
   40626485913: {
-    boe_no: " 40626485913",
+    boe_no: "40626485913",
     status: "Assessed",
     pdf_date: "27/06/2026 15:58:26",
     amount: "4,083.76 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40726492695: {
+    boe_no: "40726492695",
+    status: "Assessed",
+    pdf_date: "01/07/2026 15:22:26",
+    amount: "3,266.32 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
