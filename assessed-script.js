@@ -2817,11 +2817,11 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-  40726501125: {
-    boe_no: " 40726501125",
+  40726512205: {
+    boe_no: "40726512205",
     status: "Assessed",
-    pdf_date: "04/07/2026 15:47:01",
-    amount: "1,638.53 GHS",
+    pdf_date: "08/07/2026 16:12:19",
+    amount: "3,251.90 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
