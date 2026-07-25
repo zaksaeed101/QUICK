@@ -2862,11 +2862,11 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-  40726543238: {
-    boe_no: " 40726543238",
+  40726563057: {
+    boe_no: " 40726563057",
     status: "Assessed",
-    pdf_date: "18/07/2026 16:01:49",
-    amount: "2,453.72 GHS",
+    pdf_date: "24/07/2026 16:18:56",
+    amount: "11,671.04 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
@@ -2875,6 +2875,42 @@ const assessedData = {
     boe_no: " 40726543267",
     status: "Assessed",
     pdf_date: "18/07/2026 16:12:03",
+    amount: "3,251.90 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40726563158: {
+    boe_no: "40726563158",
+    status: "Assessed",
+    pdf_date: "24/07/2026 19:31:19",
+    amount: "6,933.84 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40726562934: {
+    boe_no: "40726562934",
+    status: "Assessed",
+    pdf_date: "24/07/2026 15:01:39",
+    amount: "11,346.73 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40726563093: {
+    boe_no: "40726563093",
+    status: "Assessed",
+    pdf_date: "24/07/2026 17:05:09",
+    amount: "6,729.39 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  40726565196: {
+    boe_no: "40726565196",
+    status: "Assessed",
+    pdf_date: "25/07/2026 16:03:19",
     amount: "3,251.90 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
