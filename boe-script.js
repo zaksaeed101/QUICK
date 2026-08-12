@@ -2913,6 +2913,14 @@ const boeData = {
     amount: "6,737.14 GHS",
     pdfDate: "07/08/2026 17:11:22",
   },
+  40826617937: {
+    billNo: "AFO1-G-40826617937-01",
+    boe: "40826617937",
+    tin: "U2608120362",
+    payerName: "VERONICA SARFO",
+    amount: "4,040.39 GHS",
+    pdfDate: "12/08/2026 16:18:22",
+  },
 };
 
 // Function to get query parameter from URL
