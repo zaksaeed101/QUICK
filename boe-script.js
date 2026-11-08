@@ -3441,6 +3441,38 @@ const boeData = {
     amount: "2,495.90 GHS",
     pdfDate: "31/10/2026 16:09:30",
   },
+  41126933107: {
+    billNo: "AFO1-G-41126933107-01",
+    boe: "41126933107",
+    tin: "U2611070324",
+    payerName: "REXFORD ASARE",
+    amount: "3,469.14 GHS",
+    pdfDate: "07/11/2026 15:22:30",
+  },
+  41126931847: {
+    billNo: "AFO1-G-41126931847-01",
+    boe: "41126931847",
+    tin: "U2611060371",
+    payerName: "GRACE OPPONG",
+    amount: "7,350.09 GHS",
+    pdfDate: "06/11/2026 18:23:52",
+  },
+  41126931908: {
+    billNo: "AFO1-G-41126931908-01",
+    boe: "41126931908",
+    tin: "U2611060437",
+    payerName: "MAVIS ACHIAA",
+    amount: "15,824.16 GHS",
+    pdfDate: "06/11/2026 20:21:34",
+  },
+  41126931893: {
+    billNo: "AFO1-G-41126931893-01",
+    boe: "41126931893",
+    tin: "U2611060398",
+    payerName: "JOYCE MENSAH",
+    amount: "15,342.89 GHS",
+    pdfDate: "06/11/2026 19:54:19",
+  },
 };
 
 // Function to get query parameter from URL
