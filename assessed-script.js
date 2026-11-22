@@ -3492,7 +3492,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026867689: {
+  41026867689: {
     boe_no: "41026867689",
     status: "Assessed",
     pdf_date: "16/10/2026 19:07:11",
@@ -3501,7 +3501,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026867605: {
+  41026867605: {
     boe_no: "41026867605",
     status: "Assessed",
     pdf_date: "16/10/2026 18:16:18",
@@ -3510,7 +3510,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026889537: {
+  41026889537: {
     boe_no: "41026889537",
     status: "Assessed",
     pdf_date: "23/10/2026 18:16:18",
@@ -3519,7 +3519,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026889585: {
+  41026889585: {
     boe_no: "41026889585",
     status: "Assessed",
     pdf_date: "23/10/2026 19:07:11",
@@ -3528,7 +3528,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026889651: {
+  41026889651: {
     boe_no: "41026889651",
     status: "Assessed",
     pdf_date: "23/10/2026 20:37:39",
@@ -3537,7 +3537,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026889604: {
+  41026889604: {
     boe_no: "41026889604",
     status: "Assessed",
     pdf_date: "23/10/2026 20:26:09",
@@ -3546,7 +3546,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026890912: {
+  41026890912: {
     boe_no: "41026890912",
     status: "Assessed",
     pdf_date: "24/10/2026 16:11:29",
@@ -3555,7 +3555,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026890971: {
+  41026890971: {
     boe_no: "41026890971",
     status: "Assessed",
     pdf_date: "24/10/2026 16:11:29",
@@ -3564,7 +3564,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026890894: {
+  41026890894: {
     boe_no: "41026890894",
     status: "Assessed",
     pdf_date: "24/10/2026 15:47:12",
@@ -3573,7 +3573,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026908892: {
+  41026908892: {
     boe_no: "41026908892",
     status: "Assessed",
     pdf_date: "30/10/2026 20:17:11",
@@ -3582,7 +3582,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026908859: {
+  41026908859: {
     boe_no: "41026908859",
     status: "Assessed",
     pdf_date: "30/10/2026 19:54:19",
@@ -3591,7 +3591,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026908803: {
+  41026908803: {
     boe_no: "41026908803",
     status: "Assessed",
     pdf_date: "30/10/2026 18:16:50",
@@ -3600,7 +3600,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41026912105: {
+  41026912105: {
     boe_no: "41026912105",
     status: "Assessed",
     pdf_date: "31/10/2026 16:09:30",
@@ -3609,7 +3609,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126933107: {
+  41126933107: {
     boe_no: "41126933107",
     status: "Assessed",
     pdf_date: "07/11/2026 15:22:30",
@@ -3618,7 +3618,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126931847: {
+  41126931847: {
     boe_no: "41126931847",
     status: "Assessed",
     pdf_date: "06/11/2026 18:23:52",
@@ -3627,7 +3627,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126931908: {
+  41126931908: {
     boe_no: "41126931908",
     status: "Assessed",
     pdf_date: "06/11/2026 20:21:34",
@@ -3636,7 +3636,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126931893: {
+  41126931893: {
     boe_no: "41126931893",
     status: "Assessed",
     pdf_date: "06/11/2026 19:54:19",
@@ -3645,7 +3645,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126950937: {
+  41126950937: {
     boe_no: "41126950937",
     status: "Assessed",
     pdf_date: "13/11/2026 18:23:52",
@@ -3654,7 +3654,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126951209: {
+  41126951209: {
     boe_no: "41126951209",
     status: "Assessed",
     pdf_date: "13/11/2026 20:21:34",
@@ -3663,7 +3663,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126950984: {
+  41126950984: {
     boe_no: "41126950984",
     status: "Assessed",
     pdf_date: "13/11/2026 19:54:19",
@@ -3672,7 +3672,7 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126953239: {
+  41126953239: {
     boe_no: "41126953239",
     status: "Assessed",
     pdf_date: "14/11/2026 15:22:30",
@@ -3681,11 +3681,38 @@ const assessedData = {
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
   },
-41126953191: {
+  41126953191: {
     boe_no: "41126953191",
     status: "Assessed",
     pdf_date: "14/11/2026 15:47:39",
     amount: "2,820.34 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41126971507: {
+    boe_no: "41126971507",
+    status: "Assessed",
+    pdf_date: "20/11/2026 19:54:19",
+    amount: "15,415.66 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41126971459: {
+    boe_no: "41126971459",
+    status: "Assessed",
+    pdf_date: "20/11/2026 18:23:52",
+    amount: "7,431.56 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41126973651: {
+    boe_no: "41126973651",
+    status: "Assessed",
+    pdf_date: "21/11/2026 17:14:30",
+    amount: "3,469.14 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
     tracking: "Declaration Tracking",
